@@ -1,5 +1,3 @@
----
-
 # Resumo Pessoal e Qualificações
 
 ## Sobre Mim
