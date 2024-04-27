@@ -28,3 +28,4 @@ Para demonstrar minhas habilidades em desenvolvimento web e compartilhar meu cur
 Este projeto não apenas me permitiu demonstrar minhas habilidades em desenvolvimento web, mas também me desafiou a explorar novas tecnologias e práticas, como Docker e Kubernetes. Estou ansioso para continuar aprendendo e crescendo como desenvolvedor, sempre buscando maneiras de criar soluções inovadoras e eficientes.
 
 --- 
+
