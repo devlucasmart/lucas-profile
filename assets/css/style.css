@@ -1105,7 +1105,50 @@ section {
   }
 }
 
-.img-icon {
-  width: 50px;
-  height: 50px;
+.skills-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skills-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.skills-list i {
+  color: #4CAF50; /* Cor do ícone */
+  margin-right: 10px;
+  font-size: 1.5em;
+}
+
+.skills-list span {
+  font-weight: bold;
+  color: #555;
+}
+
+.skills.section-bg {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+}
+
+.section-title h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #222;
+  text-align: center;
+  font-weight: bold;
+}
+
+.skills-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.col-lg-6 {
+  flex: 1;
 }
